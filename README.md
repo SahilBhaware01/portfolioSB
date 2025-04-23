@@ -1,77 +1,74 @@
-# Sahil Bhaware – Data Engineer 
+# Sahil Bhaware – Data Engineering  Portfolio
 
-Welcome to my data science portfolio website! I'm a data scientist and AI enthusiast with a background in Computer Engineering and Business Administration, currently pursuing a Master's in Computer Science with a specialization in Artificial Intelligence. This portfolio highlights my professional experience, technical skills, and personal projects in the field of data science and machine learning.
+Welcome to my portfolio website!  
+I'm a Data Software Engineer with 2 years of experience in building scalable ETL pipelines using Python, SQL, and Big Data technologies on AWS and GCP. With a strong foundation in Computer Engineering and Business Administration, I'm currently pursuing a Master's in Computer Science with a specialization in Artificial Intelligence.
 
-## 🌐 Live Website
-[Visit My Portfolio](https://yourusername.github.io/your-repo-name/) *(replace with your actual link)*
+I specialize in data engineering, where I design and optimize robust, modular data workflows that empower organizations to make data-driven decisions. I’m proficient in core data structures and algorithms, and I bring strong problem-solving and system design skills to every project. I follow best practices in software development, including Git version control, CI/CD pipelines, code reviews, and Agile methodologies.
+
+Passionate about performance tuning, continuous learning, and cross-functional collaboration, I thrive on delivering high-impact data solutions that bridge business needs with technical execution.
 
 ---
 
-## 📌 About Me
-
-I’m passionate about using data and machine learning to solve real-world problems. My interests lie in:
-- Deep Learning and Computer Vision
-- Natural Language Processing
-- Data Engineering & Modeling
-- AI for Decision Making
-
-Previously, I worked at Volkswagen as a Software Engineer (SAP SD), and later transitioned to data-focused roles and projects. I'm actively seeking full-time opportunities in Data Science & Engineering.
+## 🌐 Live Website
+[Visit My Portfolio](https://github.com/SahilBhaware01) 
 
 ---
 
 ## 💼 Work Experience
 
-**Machine Learning Intern @ XYZ Company (Month Year – Present)**  
-- Built predictive models to forecast customer churn using logistic regression and XGBoost  
-- Automated data preprocessing pipelines using Python and SQL  
-
-**Software Engineer @ Volkswagen (Year – Year)**  
-- Specialized in SAP SD module; led efforts to optimize data integration workflows  
-- Worked closely with stakeholders to streamline business processes using data insights  
+**Software Engineer – Data Engineering @ Volkswagen Group Technology Solutions, Pune, India  (Aug 2021 – July 2023)**  
+• Constructed intricate SQL queries for data analysis, including aggregations and table joins, aiding informed decision-making.
+Transformed Complex datasets into meaningful summaries utilizing BigQuery for trend analysis and decision-making.
+• Designed and implemented an OCR Engine workflow using Apache Airflow data pipelines to extract invoice details, purchase
+orders, and receipts for accounting automation, expense tracking for accounting automation and document digitization
+• Processed JSON, XML, and Parquet data from multiple sources and migrated over 83k customer records to Google Cloud
+Storage using data ingestion pipelines and Spark for transformation ensuring optimized data flow and storage efficiency.
+• Devised visualization dashboard to track key performance metrics, improving data quality, reporting and tell data stories.
 
 ---
 
 ## 📚 Education
 
-**M.S., Computer Science (AI specialization)** – Your University, Year  
-**B.E., Computer Engineering** – Your Undergraduate University, Year  
-**MBA, Business Administration** – Year (if you'd like to include this)
+**M.S., Computer Science (AI specialization)** – Illinois Institute of Technology, Chicago, IL , Anticipated May 2025
+**B.Tech., Computer Engineering** – Vishwakarma Institute of Information Technology, Pune, India , May 2021
+
 
 ---
 
 ## 🧠 Technical Skills
 
-**Languages**: Python, SQL, R, Java  
-**Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV  
-**Cloud & Big Data**: AWS, Google Cloud, Spark, Hive, Snowflake  
-**Visualization**: Tableau, PowerBI, Matplotlib, Seaborn  
-**Other**: Git, Docker, CI/CD, APIs
+**Programming Languages & Scripting: Python | SQL | Shell Scripting | Java | JavaScript | HTML | CSS
+**Libraries & Frameworks: Pandas | Tensorflow-Keras | OpenCV | Neural Networks | Feature Engineering
+**Big Data, Cloud & Data Engineering: Spark | Hadoop | BigQuery | Airflow | ETL Pipelines | Cloud Storage
+**ETL & Databases**: Airflow, DBT, PostgreSQL, MySQL  
+**Data Analysis and Visualization: Tableau | MS Excel (Pivot Tables) | MS PowerPoint | Matplotlib | Seaborn
+**Tools: GitHub | Bitbucket | Docker | Jira | Postman | MS Suite (Word, Excel, Powerpoint)
 
 ---
 
 ## 📈 Projects
 
-### 🔐 GAN-Based Image Steganography
-A deep learning project that hides encrypted messages within facial images using a GAN architecture.  
-*Tools: TensorFlow, OpenCV, AES, CelebA Dataset*
+### 🔐 Steganography using Generative Adversarial Networks 
+Developed and trained GAN models using TensorFlow on preprocessed CelebA data for image steganography, achieving over 85% message decoding accuracy with less than 5% visual distortion (SSIM).
+*Tools: TensorFlow, Keras, OpenCV, NumPy, Python, AES (PyCryptodome), CelebA Dataset, SSIM (scikit-image)*
 
-### 🧹 Unified Crime Data Integration
-Integrated crime data from NY and Chicago, harmonized schema, and used BERT for law code imputation.  
-*Tools: BERT, ETL, Data Modeling*
+### 🧹 Integration Crime Database 
+Designed a unified crime database by integrating NY and Chicago datasets via schema mapping, and fine-tuned a BERT-based NLP model to reduce missing data by 40% through accurate law code and location imputation. 
+*Tools: Python, Pandas, NumPy, BERT (Hugging Face Transformers), TensorFlow/Keras, Scikit-learn, SQL (optional), Data Modeling Techniques*
 
-### 🧪 Hypothesis Testing for Marketing Impact
-Performed A/B testing on campaign data to measure marketing effectiveness.  
-*Tools: Python, SQL, Statsmodels*
+### 📊 Analysis of Modern Optimization Techniques using Gradient Centralization 
+Applied Batch and Weight Normalization on the CIFAR-100 dataset to stabilize and accelerate learning, and used Gradient Centralization with various optimizers, identifying RMSProp as the top performer based on training time, accuracy, loss, and F1-score.
+*Tools: TensorFlow, Keras, Python, CIFAR-100 Dataset (via tensorflow.keras.datasets), Scikit-learn (metrics), Matplotlib/Seaborn (for visualizations), NumPy*
 
-More projects can be found on my [GitHub Repositories](https://github.com/yourusername).
+More projects available on [GitHub](https://github.com/SahilBhaware01).
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 Email: sahil.b@example.com  
+- 📧 Email: sahilbhaware01@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/sahilbhaware)  
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
+- 🧑‍💻 [GitHub](https://github.com/SahilBhaware01)
 
 ---
 
