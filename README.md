@@ -69,15 +69,15 @@ GitHub, Bitbucket, Docker, Jira, Postman, MS Suite (Word, Excel, PowerPoint)
 
 ### 🔐 Steganography using Generative Adversarial Networks  
 Developed and trained GAN models using TensorFlow on preprocessed CelebA data for image steganography, achieving over 85% message decoding accuracy with less than 5% visual distortion (SSIM).  
-*Tools:* TensorFlow, Keras, OpenCV, NumPy, Python, AES (PyCryptodome), CelebA Dataset, SSIM (scikit-image)
+**Tools:** TensorFlow, Keras, OpenCV, NumPy, Python, AES (PyCryptodome), CelebA Dataset, SSIM (scikit-image)
 
 ### 🧹 Integration Crime Database  
 Designed a unified crime database by integrating NY and Chicago datasets via schema mapping, and fine-tuned a BERT-based NLP model to reduce missing data by 40% through accurate law code and location imputation.  
-*Tools:* Python, Pandas, NumPy, BERT (Hugging Face Transformers), TensorFlow/Keras, Scikit-learn, SQL, Data Modeling Techniques
+**Tools:** Python, Pandas, NumPy, BERT (Hugging Face Transformers), TensorFlow/Keras, Scikit-learn, SQL, Data Modeling Techniques
 
 ### 📊 Analysis of Modern Optimization Techniques using Gradient Centralization  
 Applied Batch and Weight Normalization on the CIFAR-100 dataset to stabilize and accelerate learning, and used Gradient Centralization with various optimizers, identifying RMSProp as the top performer based on training time, accuracy, loss, and F1-score.  
-*Tools:* TensorFlow, Keras, Python, CIFAR-100 Dataset (tensorflow.keras.datasets), Scikit-learn (metrics), Matplotlib, Seaborn, NumPy
+**Tools:** TensorFlow, Keras, Python, CIFAR-100 Dataset (tensorflow.keras.datasets), Scikit-learn (metrics), Matplotlib, Seaborn, NumPy
 
 More projects available on [GitHub](https://github.com/SahilBhaware01).
 
