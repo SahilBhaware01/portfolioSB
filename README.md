@@ -30,6 +30,7 @@ Storage using data ingestion pipelines and Spark for transformation ensuring opt
 ## 📚 Education
 
 **M.S., Computer Science (AI specialization)** – Illinois Institute of Technology, Chicago, IL , Anticipated May 2025
+
 **B.Tech., Computer Engineering** – Vishwakarma Institute of Information Technology, Pune, India , May 2021
 
 
@@ -38,10 +39,15 @@ Storage using data ingestion pipelines and Spark for transformation ensuring opt
 ## 🧠 Technical Skills
 
 **Programming Languages & Scripting: Python | SQL | Shell Scripting | Java | JavaScript | HTML | CSS
+
 **Libraries & Frameworks: Pandas | Tensorflow-Keras | OpenCV | Neural Networks | Feature Engineering
+
 **Big Data, Cloud & Data Engineering: Spark | Hadoop | BigQuery | Airflow | ETL Pipelines | Cloud Storage
-**ETL & Databases**: Airflow, DBT, PostgreSQL, MySQL  
+
+**ETL & Databases: Airflow, DBT, PostgreSQL, MySQL  
+
 **Data Analysis and Visualization: Tableau | MS Excel (Pivot Tables) | MS PowerPoint | Matplotlib | Seaborn
+
 **Tools: GitHub | Bitbucket | Docker | Jira | Postman | MS Suite (Word, Excel, Powerpoint)
 
 ---
