@@ -1,4 +1,4 @@
-# Sahil Bhaware – Data Engineering  Portfolio
+# Sahil Bhaware – Data Engineer
 
 Welcome to my portfolio website!  
 I'm a Data Software Engineer with 2 years of experience in building scalable ETL pipelines using Python, SQL, and Big Data technologies on AWS and GCP. With a strong foundation in Computer Engineering and Business Administration, I'm currently pursuing a Master's in Computer Science with a specialization in Artificial Intelligence.
