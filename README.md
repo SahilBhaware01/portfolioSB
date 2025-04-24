@@ -38,17 +38,17 @@ Storage using data ingestion pipelines and Spark for transformation ensuring opt
 
 ## 🧠 Technical Skills
 
-**Programming Languages & Scripting: Python | SQL | Shell Scripting | Java | JavaScript | HTML | CSS
+**Programming Languages & Scripting **: Python, SQL, Shell Scripting, Java, JavaScript, HTML, CSS
 
-**Libraries & Frameworks: Pandas | Tensorflow-Keras | OpenCV | Neural Networks | Feature Engineering
+**Libraries & Frameworks **: Pandas | Tensorflow-Keras | OpenCV | Neural Networks | Feature Engineering
 
-**Big Data, Cloud & Data Engineering: Spark | Hadoop | BigQuery | Airflow | ETL Pipelines | Cloud Storage
+**Big Data, Cloud & Data Engineering **: Spark | Hadoop | BigQuery | Airflow | ETL Pipelines | Cloud Storage
 
-**ETL & Databases: Airflow, DBT, PostgreSQL, MySQL  
+**ETL & Databases **: Airflow, DBT, PostgreSQL, MySQL  
 
-**Data Analysis and Visualization: Tableau | MS Excel (Pivot Tables) | MS PowerPoint | Matplotlib | Seaborn
+**Data Analysis and Visualization **: Tableau | MS Excel (Pivot Tables) | MS PowerPoint | Matplotlib | Seaborn
 
-**Tools: GitHub | Bitbucket | Docker | Jira | Postman | MS Suite (Word, Excel, Powerpoint)
+**Tools **: GitHub | Bitbucket | Docker | Jira | Postman | MS Suite (Word, Excel, Powerpoint)
 
 ---
 
