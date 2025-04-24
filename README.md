@@ -19,26 +19,31 @@ Passionate about performance tuning, continuous learning, and cross-functional c
 **Software Engineer – Data Engineering @ Volkswagen Group Technology Solutions, Pune, India  (Aug 2021 – July 2023)**  
 • Constructed intricate SQL queries for data analysis, including aggregations and table joins, aiding informed decision-making.
 Transformed Complex datasets into meaningful summaries utilizing BigQuery for trend analysis and decision-making.
+
 • Designed and implemented an OCR Engine workflow using Apache Airflow data pipelines to extract invoice details, purchase
 orders, and receipts for accounting automation, expense tracking for accounting automation and document digitization
+
 • Processed JSON, XML, and Parquet data from multiple sources and migrated over 83k customer records to Google Cloud
 Storage using data ingestion pipelines and Spark for transformation ensuring optimized data flow and storage efficiency.
+
 • Devised visualization dashboard to track key performance metrics, improving data quality, reporting and tell data stories.
 
 ---
 
 ## 📚 Education
 
-**M.S., Computer Science (AI specialization)** – Illinois Institute of Technology, Chicago, IL , Anticipated May 2025
+**M.S., Computer Science (Specialization in Artificial Intelligence and Data Analytics) ** 
+– Illinois Institute of Technology, Chicago, IL , Anticipated May 2025
 
-**B.Tech., Computer Engineering** – Vishwakarma Institute of Information Technology, Pune, India , May 2021
+**B.Tech., Computer Engineering ** 
+– Vishwakarma Institute of Information Technology, Pune, India , May 2021
 
 
 ---
 
 ## 🧠 Technical Skills
 
-**Programming Languages & Scripting **: Python, SQL, Shell Scripting, Java, JavaScript, HTML, CSS
+**Programming Languages & Scripting ** : Python, SQL, Shell Scripting, Java, JavaScript, HTML, CSS
 
 **Libraries & Frameworks **: Pandas | Tensorflow-Keras | OpenCV | Neural Networks | Feature Engineering
 
