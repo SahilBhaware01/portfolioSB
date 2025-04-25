@@ -1,94 +1,87 @@
-# Sahil Bhaware – Data Engineer
+# 🚀 Sahil Bhaware – Data Software Engineer
 
-Welcome to my portfolio website!  
-I'm a Data Software Engineer with 2 years of experience in building scalable ETL pipelines using Python, SQL, and Big Data technologies on AWS and GCP. With a strong foundation in Computer Engineering and Business Administration, I'm currently pursuing a Master's in Computer Science with a specialization in Artificial Intelligence.
+Welcome to my portfolio! I’m a passionate **Data Software Engineer** with 2+ years of experience in building scalable **ETL pipelines**, transforming data into insights, and crafting robust systems on **AWS** and **GCP**.
 
-I specialize in data engineering, where I design and optimize robust, modular data workflows that empower organizations to make data-driven decisions. I’m proficient in core data structures and algorithms, and I bring strong problem-solving and system design skills to every project. I follow best practices in software development, including Git version control, CI/CD pipelines, code reviews, and Agile methodologies.
-
-Passionate about performance tuning, continuous learning, and cross-functional collaboration, I thrive on delivering high-impact data solutions that bridge business needs with technical execution.
+Currently pursuing my **Master’s in Computer Science (AI Specialization)**, I bring a unique mix of technical depth and business acumen (MBA) to every project I take on.
 
 ---
 
-## 🌐 My Github
-[Visit My Portfolio](https://github.com/SahilBhaware01) 
+## 🌟 What I Do Best
+
+- 🛠️ **Design modular ETL pipelines** using Python, SQL, Airflow, Spark
+- 🌐 **Cloud-native data workflows** on AWS & GCP
+- 🧠 **ML-powered pipelines** for NLP and computer vision use cases
+- 📈 **Data analysis & storytelling** with dashboards and visualizations
+- 🚀 Strong foundation in **DSA**, **system design**, and **agile software development**
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-**Software Engineer – Data Engineering @ Volkswagen Group Technology Solutions, Pune, India  (Aug 2021 – July 2023)**  
-• Constructed intricate SQL queries for data analysis, including aggregations and table joins, aiding informed decision-making.
-Transformed Complex datasets into meaningful summaries utilizing BigQuery for trend analysis and decision-making.
+### 🔧 Software Engineer – Data Engineering  
+**Volkswagen Group Technology Solutions, Pune, India**  
+_Aug 2021 – July 2023_
 
-• Designed and implemented an OCR Engine workflow using Apache Airflow data pipelines to extract invoice details, purchase
-orders, and receipts for accounting automation, expense tracking for accounting automation and document digitization
-
-• Processed JSON, XML, and Parquet data from multiple sources and migrated over 83k customer records to Google Cloud
-Storage using data ingestion pipelines and Spark for transformation ensuring optimized data flow and storage efficiency.
-
-• Devised visualization dashboard to track key performance metrics, improving data quality, reporting and tell data stories.
+- Built complex SQL queries to support business decisions and generate insights from multi-source datasets.
+- Developed OCR engine using **Apache Airflow** to automate invoice and PO extraction for finance teams.
+- Migrated 83K+ customer records into **Google Cloud Storage** using Spark and BigQuery for optimized storage.
+- Designed real-time dashboards to monitor key metrics and improve data quality.
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-**M.S., Computer Science (Specialization in Artificial Intelligence and Data Analytics)**  
-*Illinois Institute of Technology, Chicago, IL*  
-*Anticipated May 2025*
+**M.S. in Computer Science (AI & Data Analytics)**  
+_Illinois Institute of Technology, Chicago, IL_ (May 2025)
 
-**B.Tech., Computer Engineering**  
-*Vishwakarma Institute of Information Technology, Pune, India*  
-*May 2021*
-
+**B.Tech. in Computer Engineering**  
+_Vishwakarma Institute of Information Technology, Pune, India_ (May 2021)
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ Skills & Tools
 
-**Programming Languages & Scripting**  
-Python, SQL, Shell Scripting, Java, JavaScript, HTML, CSS
-
-**Libraries & Frameworks**  
-Pandas, TensorFlow-Keras, OpenCV, Neural Networks, Feature Engineering
-
-**Big Data, Cloud & Data Engineering**  
-Spark, Hadoop, BigQuery, Airflow, ETL Pipelines, Cloud Storage
-
-**ETL & Databases**  
-Airflow, DBT, PostgreSQL, MySQL
-
-**Data Analysis and Visualization**  
-Tableau, MS Excel (Pivot Tables), MS PowerPoint, Matplotlib, Seaborn
-
-**Tools**  
-GitHub, Bitbucket, Docker, Jira, Postman, MS Suite (Word, Excel, PowerPoint)
+| Domain | Tools |
+|--|--|
+| **Languages** | Python, SQL, Java, Shell, HTML, JavaScript |
+| **Libraries** | Pandas, OpenCV, Keras, TensorFlow, scikit-learn |
+| **Data Engineering** | Spark, Hadoop, Airflow, DBT, BigQuery, ETL Pipelines |
+| **Cloud** | AWS (S3, Lambda), GCP (Storage, BigQuery) |
+| **Databases** | PostgreSQL, MySQL |
+| **Visualization** | Tableau, Excel (Pivot), Matplotlib, Seaborn |
+| **Tools** | GitHub, Docker, Bitbucket, Postman, Jira |
 
 ---
 
-## 📈 Projects
+## 📈 Projects 
 
-### 🔐 Steganography using Generative Adversarial Networks  
-Developed and trained GAN models using TensorFlow on preprocessed CelebA data for image steganography, achieving over 85% message decoding accuracy with less than 5% visual distortion (SSIM).  
-**Tools:** TensorFlow, Keras, OpenCV, NumPy, Python, AES (PyCryptodome), CelebA Dataset, SSIM (scikit-image)
-
-### 🧹 Integration Crime Database  
-Designed a unified crime database by integrating NY and Chicago datasets via schema mapping, and fine-tuned a BERT-based NLP model to reduce missing data by 40% through accurate law code and location imputation.  
-**Tools:** Python, Pandas, NumPy, BERT (Hugging Face Transformers), TensorFlow/Keras, Scikit-learn, SQL, Data Modeling Techniques
-
-### 📊 Analysis of Modern Optimization Techniques using Gradient Centralization  
-Applied Batch and Weight Normalization on the CIFAR-100 dataset to stabilize and accelerate learning, and used Gradient Centralization with various optimizers, identifying RMSProp as the top performer based on training time, accuracy, loss, and F1-score.  
-**Tools:** TensorFlow, Keras, Python, CIFAR-100 Dataset (tensorflow.keras.datasets), Scikit-learn (metrics), Matplotlib, Seaborn, NumPy
-
-More projects available on [GitHub](https://github.com/SahilBhaware01).
+### 🔐 GAN-Based Image Steganography  
+Used GANs on CelebA to hide & retrieve encrypted messages inside images. Achieved **85%+ decoding accuracy** with minimal SSIM distortion.  
+**Tech Stack:** TensorFlow, AES, OpenCV, NumPy, SSIM
 
 ---
 
-## 📬 Get in Touch
-
-- 📧 Email: sahilbhaware01@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/sahilbhaware)  
-- 🧑‍💻 [GitHub](https://github.com/SahilBhaware01)
+### 🧹 Unified Crime Database (NY & Chicago)  
+Built a unified data model for crime data, using **BERT** to intelligently impute missing law codes and locations.  
+Reduced missing data by **40%** using NLP-powered imputation.  
+**Tech Stack:** Python, Pandas, SQL, HuggingFace, Keras
 
 ---
 
-> This site is built with GitHub Pages and maintained by **Sahil Bhaware**.
+### ⚙️ Optimization Techniques – Gradient Centralization  
+Applied and benchmarked normalization + optimizers on CIFAR-100. Found **RMSProp + GC** yielded best F1 and training time.  
+**Tech Stack:** TensorFlow, Keras, Matplotlib, Scikit-learn
+
+➡️ See more projects on [GitHub →](https://github.com/SahilBhaware01)
+
+---
+
+## 📬 Let's Connect
+
+- 📧 sahilbhaware01@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/sahilbhaware)  
+- 💻 [GitHub](https://github.com/SahilBhaware01)
+
+---
+
+> 👨‍💻 This site is built using **GitHub Pages** and maintained by **Sahil Bhaware**.
