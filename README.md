@@ -1,6 +1,6 @@
-# 🚀 Sahil Bhaware – Data Software Engineer
+# 🚀 Sahil Bhaware – Software Engineer
 
-Welcome to my portfolio! I’m a passionate **Data Software Engineer** with 2+ years of experience in building scalable **ETL pipelines**, transforming data into insights, and crafting robust systems on **AWS** and **GCP**.
+Welcome to my portfolio! I’m a passionate **Software Engineer** with 2+ years of experience in building scalable **ETL pipelines**, transforming data into insights, and crafting robust systems on **AWS** and **GCP**.
 
 Currently pursuing my **Master’s in Computer Science (AI Specialization)**, I bring a unique mix of technical depth and business acumen (MBA) to every project I take on.
 
