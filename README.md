@@ -1,18 +1,24 @@
 # 🚀 Sahil Bhaware – Software Engineer
 
-Welcome to my portfolio! I’m a passionate **Software Engineer** with 2+ years of experience in building scalable **ETL pipelines**, transforming data into insights, and crafting robust systems on **AWS** and **GCP**.
+Welcome to my portfolio!
 
-Currently pursuing my **Master’s in Computer Science (AI Specialization)**, I bring a unique mix of technical depth and business acumen (MBA) to every project I take on.
+I’m a passionate Software Engineer with 2+ years of experience in building scalable ETL pipelines, designing data models, optimizing query performance, and orchestrating workflows on AWS and GCP.
+
+Currently pursuing my Master’s in Computer Science (AI Specialization), I bring a strong mix of technical depth and problem-solving skills to every project I take on.
 
 ---
 
 ## 🌟 What I Do Best
 
-- 🛠️ **Design modular ETL pipelines** using Python, SQL, Airflow, Spark
-- 🌐 **Cloud-native data workflows** on AWS & GCP
-- 🧠 **ML-powered pipelines** for NLP and computer vision use cases
-- 📈 **Data analysis & storytelling** with dashboards and visualizations
-- 🚀 Strong foundation in **DSA**, **system design**, and **agile software development**
+Design and build modular ETL/ELT pipelines with Python, SQL, Airflow, Spark, and dbt
+
+Develop cloud-native data platforms leveraging AWS (Redshift, S3, Glue) & GCP (BigQuery, Dataflow, Cloud Composer)
+
+Implement data modeling, warehousing, and CDC pipelines using tools like Kafka and Debezium
+
+Create ML-integrated data workflows for NLP and computer vision applications
+
+Strong foundation in DSA, system design, and agile development practices
 
 ---
 
@@ -22,17 +28,19 @@ Currently pursuing my **Master’s in Computer Science (AI Specialization)**, I 
 **Volkswagen Group Technology Solutions, Pune, India**  
 _Aug 2021 – July 2023_
 
-- Built complex SQL queries to support business decisions and generate insights from multi-source datasets.
-- Developed OCR engine using **Apache Airflow** to automate invoice and PO extraction for finance teams.
-- Migrated 83K+ customer records into **Google Cloud Storage** using Spark and BigQuery for optimized storage.
-- Designed real-time dashboards to monitor key metrics and improve data quality.
+Engineered optimized SQL queries and data pipelines to integrate multi-source datasets for analytics and reporting.
 
+Built an OCR-based data extraction workflow using Apache Airflow, automating invoice and purchase order processing for finance teams.
+
+Migrated 83K+ customer records into Google Cloud Storage and BigQuery, enabling scalable data warehousing and faster query performance.
+
+Designed and deployed real-time dashboards to track business KPIs and improve data quality monitoring.
 ---
 
 ## 🎓 Education
 
 **M.S. in Computer Science (AI & Data Analytics)**  
-_Illinois Institute of Technology, Chicago, IL_ (May 2025)
+_Illinois Institute of Technology, Chicago, IL_ (Dec 2025)
 
 **B.Tech. in Computer Engineering**  
 _Vishwakarma Institute of Information Technology, Pune, India_ (May 2021)
