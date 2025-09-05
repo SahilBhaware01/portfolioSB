@@ -69,16 +69,35 @@ Used GANs on CelebA to hide & retrieve encrypted messages inside images. Achieve
 
 ---
 
-### 🧹 Unified Crime Database (NY & Chicago)  
-Built a unified data model for crime data, using **BERT** to intelligently impute missing law codes and locations.  
-Reduced missing data by **40%** using NLP-powered imputation.  
-**Tech Stack:** Python, Pandas, SQL, HuggingFace, Keras
+### 🔐 GAN-Based Image Steganography
+
+Impact: Enabled secure, high-accuracy message transmission within images with minimal distortion.
+Challenge Solved: Overcame challenges of balancing image quality (SSIM) and decoding accuracy, achieving 85%+ message retrieval.
+Tech Stack: TensorFlow, AES, OpenCV, NumPy, SSIM
 
 ---
 
-### ⚙️ Optimization Techniques – Gradient Centralization  
-Applied and benchmarked normalization + optimizers on CIFAR-100. Found **RMSProp + GC** yielded best F1 and training time.  
-**Tech Stack:** TensorFlow, Keras, Matplotlib, Scikit-learn
+### 🧹 Unified Crime Data Integration (NY & Chicago)
+
+Impact: Improved law enforcement analytics by reducing missing critical crime data by 40%, enabling more reliable reporting and trend analysis.
+Challenge Solved: Imputed missing law codes and locations using NLP when structured data was incomplete or inconsistent.
+Tech Stack: Python, Pandas, SQL, HuggingFace, Keras
+
+---
+
+### ⚡ Smart Data Pipeline for AI-Driven Business Insights
+
+Impact: Enabled near real-time business intelligence with <3-second query latency on 100K+ daily records, automating KPI summaries, anomaly detection, and trend forecasts, reducing manual reporting effort by 80%.
+Challenge Solved: Integrated diverse streaming and batch data sources (Kafka, APIs) while ensuring pipeline scalability and reliability.
+Tech Stack: Airflow, Kafka, PySpark, GCS, BigQuery, Gemini 1.5 Flash, LangChain
+
+---
+
+### 📊 Cloud-Enabled Health Analytics & Visualization Platform
+
+Impact: Empowered health analysts with interactive dashboards analyzing 250K+ CDC BRFSS records, revealing diabetes risk trends across 6+ demographics and improving decision-making efficiency by 40%.
+Challenge Solved: Standardized inconsistent health survey data across multiple warehouses, ensuring clean, aggregated datasets for large-scale analysis.
+Tech Stack: BigQuery, Azure SQL Data Warehouse, SQL ETL, Tableau, Power BI
 
 ➡️ See more projects on [GitHub →](https://github.com/SahilBhaware01)
 
